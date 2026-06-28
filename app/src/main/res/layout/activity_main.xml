@@ -40,29 +40,4 @@
         <TableRow>
             <Button android:id="@+id/btn_7" android:text="7" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
             <Button android:id="@+id/btn_8" android:text="8" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_9" android:text="9" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_div" android:text="/" android:textColor="#FF9100" android:background="#1E1E1E" android:layout_margin="2dp"/>
-        </TableRow>
-
-        <TableRow>
-            <Button android:id="@+id/btn_4" android:text="4" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_5" android:text="5" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_6" android:text="6" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_mult" android:text="*" android:textColor="#FF9100" android:background="#1E1E1E" android:layout_margin="2dp"/>
-        </TableRow>
-
-        <TableRow>
-            <Button android:id="@+id/btn_1" android:text="1" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_2" android:text="2" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_3" android:text="3" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_menos" android:text="-" android:textColor="#FF9100" android:background="#1E1E1E" android:layout_margin="2dp"/>
-        </TableRow>
-
-        <TableRow>
-            <Button android:id="@+id/btn_0" android:text="0" android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_punto" android:text="." android:textColor="#FFFFFF" android:background="#252525" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_igual" android:text="=" android:textColor="#FFFFFF" android:background="#FF9100" android:layout_margin="2dp"/>
-            <Button android:id="@+id/btn_mas" android:text="+" android:textColor="#FF9100" android:background="#1E1E1E" android:layout_margin="2dp"/>
-        </TableRow>
-    </TableLayout>
-</LinearLayout>
+            <Button android:id
